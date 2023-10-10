@@ -1,3 +1,3 @@
-# CPP
+# Game Development with C++
 
-CPP Game Development with SDL, ninja side scroller game unfinished.
+## Unofficial repository for SDL game development
